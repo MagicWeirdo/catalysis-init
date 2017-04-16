@@ -1,16 +1,23 @@
 {
   "name": "catalysis-init",
-  "version": "1.0.4",
-  "description": "Catalysis.js initializer",
+  "version": "1.0.5",
+  "description": "Catalysis.js initializer for initializing a Catalysis project",
   "main": "index.js",
   "bin": "./bin/init.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MagicWeirdo/catalysis-init.git"
+  },
   "keywords": [
     "catalysis-init"
   ],
-  "author": "MagicWeirdo",
+  "bugs": {
+    "email": "oliver_hsu1996@yahoo.com"
+  },
+  "author": "MagicWeirdo <oliver_hsu1996@yahoo.com>",
   "license": "MIT",
   "dependencies": {
     "cross-spawn": "^5.1.0"

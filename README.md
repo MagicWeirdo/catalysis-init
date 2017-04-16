@@ -1,3 +1,13 @@
-# Overview
+# Catalysis.js Initializer
 
-Currently working on API document
+## Install
+
+```bash
+$ npm install -g catalysis-init
+```
+
+## Create Project
+
+```bash
+$ catalysis-init new example-project
+```
